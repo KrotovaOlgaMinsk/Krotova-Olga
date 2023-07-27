@@ -8,7 +8,7 @@ Jira,qase.io,SQL, Postman,Fiddler, Swagger, Trello,
 SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 
 ## Проекты
-*Проект 1*: тест веб-приложения для учителей от Skyeng
+#### *Проект 1*: тест веб-приложения для учителей от Skyeng
 
 Что нужно было сделать:
 
@@ -32,7 +32,7 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 
 ###### Итог №2: в системе имеются серьезные баги, которые нужно устранить.
 
-*Проект 2*: тест кабинета учителя в приложении Skyeng
+#### *Проект 2*: тест кабинета учителя в приложении Skyeng
 
 Что нужно было сделать:
 
