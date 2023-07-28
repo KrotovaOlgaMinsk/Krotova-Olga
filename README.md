@@ -22,10 +22,6 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 
 ###### Ссылка на проект: https://qa-bug-report11.atlassian.net/wiki/spaces/~63a5e086347fae534682be4f/pages/3211265/1+2
 
-###### логин: olja_2525@mail.ru
-
-###### пароль: 1380977Olga
-
 Выводы (итоги):
 
 #### Итог №1: продукт к выпуску не готов.
@@ -43,10 +39,6 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 Как решала(-а): в Qase.io составлены тест-кейсы, на основании которых составлена коллекция в Postman, выполнено тестирование API, составлен отчет о тестировании.
 
 ###### Ссылка на проект: https://qa-bug-report11.atlassian.net/wiki/spaces/~63a5e086347fae534682be4f/pages/3211265/1+2
-
-###### логин: olja_2525@mail.ru
-
-###### пароль: 1380977Olga
 
 Выводы (итоги):
 
